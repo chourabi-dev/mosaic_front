@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?7ay8q1');
+  src:  url('fonts/icomoon.eot?7ay8q1#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?7ay8q1') format('truetype'),
+    url('fonts/icomoon.woff?7ay8q1') format('woff'),
+    url('fonts/icomoon.svg?7ay8q1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="fa-"], [class*=" fa-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-arrow-circle-down:before {
+  content: "\e90d";
+}
+.fa-arrow-circle-up:before {
+  content: "\e90e";
+}
+.fa-arrow-circle-right:before {
+  content: "\e90f";
+}
+.fa-arrow-circle-left:before {
+  content: "\e910";
+}
+.fa-paper-plane:before {
+  content: "\e907";
+}
+.fa-twitter:before {
+  content: "\e90a";
+}
+.fa-instagram:before {
+  content: "\e90b";
+}
+.fa-facebook:before {
+  content: "\e90c";
+}
+.fa-search:before {
+  content: "\e909";
+}
+.fa-upload-cloud:before {
+  content: "\e908";
+}
+.fa-camera-off:before {
+  content: "\e905";
+}
+.fa-camera:before {
+  content: "\e906";
+}
+.fa-home:before {
+  content: "\e901";
+}
+.fa-zoom-out:before {
+  content: "\e902";
+}
+.fa-zoom-in:before {
+  content: "\e903";
+}
+.fa-close:before {
+  content: "\e904";
+}
+.fa-full:before {
+  content: "\e900";
+}
